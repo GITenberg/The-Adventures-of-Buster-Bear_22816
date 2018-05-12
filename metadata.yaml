@@ -1,0 +1,42 @@
+_repo: The-Adventures-of-Buster-Bear_22816
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Cady, Harrison
+    aliases:
+    - Cady, Walter Harrison
+    - Cady, W. Harrison (Walter Harrison)
+    birthdate: 1877
+    deathdate: 1970
+    gutenberg_agent_id: '8456'
+    url: http://www.gutenberg.org/2009/agents/8456
+covers:
+- cover_type: archival
+  image_path: 22816-h/images/covers.jpg
+creator:
+  author:
+    agent_name: Burgess, Thornton W. (Thornton Waldo)
+    alias: Burgess, Thornton Waldo
+    birthdate: 1874
+    deathdate: 1965
+    gutenberg_agent_id: '717'
+    url: http://www.gutenberg.org/2009/agents/717
+    wikipedia: http://en.wikipedia.org/wiki/Thornton_Burgess
+description: The other animals are frightened when Buster Bear comes to live in the
+  Green Forest, until he gets in trouble for trying to steal blueberries from Farmer
+  Brown's boy and they realize that he is not very different from them.
+gutenberg_bookshelf: Children's Book Series
+gutenberg_issued: '2007-09-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22816'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Animals -- Juvenile fiction'
+- !lcsh 'Bears -- Juvenile fiction'
+- !lcc 'PZ'
+title: The Adventures of Buster Bear
+url: http://www.gutenberg.org/ebooks/22816
